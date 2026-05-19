@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 👋
+
+## I'm currently developing some projects in CESAR School and Universidade de Pernambuco. 👨🏻‍💻
+
+## I do currently work with Python and SQL, and I'm learning Java and C. 📜
+
+## You can ask me about anything! I'm open to exchange knowledge and experience. 🤝
+
+## If interested, you can reach me through my LinkedIn. 🎯
 
 <!--
 **lucaas783/lucaas783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
