@@ -1,6 +1,9 @@
-## Hey there 👋
+<h1>Hey, I'm Lucas! 👋 </h1>
+<h2>Studying in CESAR School and Universidade de Pernambuco 👨🏻‍💻 </h2>
 
-## I'm currently developing some projects in CESAR School and Universidade de Pernambuco. 👨🏻‍💻
+<h2>CESAR School ongoing projects: </h2>
+- [EcoVolt Analytics](https://www.github.com/lucaas783/bd-1p-grupo8-projeto)
+- [Statistics project using PowerBI](https://www.github.com/lucaas783/cesar-1p-estatistica-trabalho)
 
 ## I do currently work with Python and SQL, and I'm learning Java and C. 📜
 
