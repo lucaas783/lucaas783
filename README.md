@@ -3,7 +3,7 @@
 
 <h2>My CESAR School ongoing projects: </h2>
 <h3><a href="https://www.github.com/lucaas783/bd-1p-grupo8-projeto">EcoVolt Analytics</a></h3>
-<h3><a href="https://www.github.com/lucaas783/cesar-1p-estatistica-trabalho">Statistics Project w/ PowerBI</a></h3>
+<h3><a href="https://www.github.com/lucaas783/cesar-1p-estatistica-trabalho">Statistics Project</a></h3>
 
 ## I do currently work with Python and SQL, and I'm learning Java and C. 📜
 
