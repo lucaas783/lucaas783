@@ -5,8 +5,6 @@
 <h3><a href="https://www.github.com/lucaas783/bd-1p-grupo8-projeto">EcoVolt Analytics</a></h3>
 <h3><a href="https://www.github.com/lucaas783/cesar-1p-estatistica-trabalho">Statistics Project</a></h3>
 
-## I do currently work with Python and SQL, and I'm learning Java and C. 📜
-
 ## You can ask me about anything! I'm open to exchange knowledge and experience. 🤝
 
 ## If interested, you can reach me through my LinkedIn. 🎯
