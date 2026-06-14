@@ -1,13 +1,14 @@
 <h1>Hey, I'm Lucas! 👋 </h1>
 <h2>Studying in CESAR School and Universidade de Pernambuco 👨🏻‍💻 </h2>
+<h3>Currently studying Python through the Harvard's CS50P Course. </h3>
 
 <h2>My CESAR School ongoing projects: </h2>
 <h3><a href="https://www.github.com/lucaas783/bd-1p-grupo8-projeto">EcoVolt Analytics</a></h3>
 <h3><a href="https://www.github.com/lucaas783/cesar-1p-estatistica-trabalho">Statistics Project</a></h3>
 
-## You can ask me about anything! I'm open to exchange knowledge and experience. 🤝
+<h2>You can ask me about anything! I'm open to exchange knowledge and experience. 🤝 </h2>
 
-## If interested, you can reach me through my LinkedIn. 🎯
+<h2>If interested, you can reach me through my LinkedIn. 🎯 </h2>
 
 <!--
 **lucaas783/lucaas783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
