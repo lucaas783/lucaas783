@@ -23,7 +23,7 @@ Currently studying Python through the Harvard course - CS50P - and working on so
 
 | Project | Description |
 |---|---|
-| **EcoVolt Analytics** | A digital platform that evaluates, classifies, and directs EV batteries for energy reuse—turning waste into value. |
+| <a href="https://www.github.com/lucaas783/bd-1p-grupo8-projeto">**EcoVolt Analytics**</a> | A digital platform that evaluates, classifies, and directs EV batteries for energy reuse—turning waste into value. |
 
 
 <br>
